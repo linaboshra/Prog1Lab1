@@ -10,8 +10,8 @@ public class APRectangle {
         area = length * width;
         perimeter = (2*length) + (2*width);
 
-        System.out.println("The area of this rectangle equals " + area);
-        System.out.println("The perimeter of this rectangle equals " + perimeter);
+        System.out.println("The area of a rectangle with length = 5 and width = 3 is " + area);
+        System.out.println("The perimeter of a rectangle with length = 5 and width = 3 is " + perimeter);
     }
 
 }
